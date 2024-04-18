@@ -12,7 +12,7 @@ My multi-disciplinary background in Psychology and Computer Science and my multi
 - Tools: Docker, Kubernetes, Amazon Web Services (AWS), Datadog
 
 2. Teaching Assistant for Applied Machine Learning @ UBC 🤖
-- Best part: Teaching what I loved - machine learning, data analysis and natural language processing!
+- Best part: Teaching what I love - machine learning, data analysis and natural language processing!
 - Languages: Python
 - Tools & Libraries: Jupyter Lab, scikit-learn, pandas
 
@@ -35,6 +35,7 @@ users to query for courses and rooms information at UBC, with automated tests an
 - Building 2D driving Game with C# and Unity inspired by Mario Kart, implementing the game physics system and user interface
 elements like automated enemy characters for engaging player experience
 - Learning more about digital illustrations
+- Reading Ultra-Processed People by Chris van Tulleken
 
 ## Extra-curriculars
 
