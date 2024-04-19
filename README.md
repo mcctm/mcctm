@@ -31,9 +31,10 @@ users to query for courses and rooms information at UBC, with automated tests an
 4. Tap My Emotions 💟
 - A game app with graphical interface for children to better identify emotions with Java, following object-oriented design principles
 
-## I'm currently...
+## What am I up to in learning? I'm currently...
+- Brushing up my Python skills with a 60-day challenge in building 20 apps (and some pop-up app challenges in between) - Start date: 2024.April
 - Building 2D driving Game with C# and Unity inspired by Mario Kart, implementing the game physics system and user interface
-elements like automated enemy characters for engaging player experience
+elements like automated enemy characters for engaging player experience - Start date: 2023.September
 - Learning more about digital illustrations
 - Reading Ultra-Processed People by Chris van Tulleken
 
