@@ -7,7 +7,7 @@ My multi-disciplinary background in Psychology and Computer Science and my multi
 ## Technical Experience ✨
 
 1. Full Stack Software Engineer Intern @ MailChannels 📧
-- Best part: Learning all about coding, testing and deployment in cybersecurity!
+- Best part: Learning all about coding, testing and deployment with the Engineering and DevOps team in cybersecurity!
 - Languages: Go, Java, SQL, PHP, HTML, CSS, Javascript on Linux
 - Tools: Docker, Kubernetes, Amazon Web Services (AWS), Datadog
 
