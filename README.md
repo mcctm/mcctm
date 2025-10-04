@@ -50,6 +50,5 @@ elements like automated enemy characters for engaging player experience - Start 
 - Best part: Meeting with local university students, and collaborating in making a difference in small steps assisting the underprevileged communities
 
 ## Even more about me
-- [Here](https://github.com/mcctm/mcctm/blob/main/Resume_2024_Github.pdf)'s the link to my resume!
 - I'm a polyglot! I speak Cantonese, Mandarin, English and a little bit of Korean!
 - I drew my profile picture here on Procreate!
